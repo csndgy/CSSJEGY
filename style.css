@@ -1,7 +1,7 @@
 body {
     text-align: center;
     
-}
+ }
 #cim {
     background-color: rgb(89, 52, 27);
     position: absolute;
@@ -12,6 +12,7 @@ body {
 #masikcim {
  background-color: #999999;
  text-align: center;
+ height: 80px;
 }
 table {
     background-color: #999999;
@@ -23,9 +24,19 @@ table {
 
  #negy {
 
-     float: inline-end;
+     float: left;
+     position: relative;
  }
 
  p {
+     width: 1000px;
+ }
+
+ #bal {
+     text-align: left;
+ }
+
+ #kozepre {
+     text-align: center;
      width: 1000px;
  }
