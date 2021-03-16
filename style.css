@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    
 }
 #cim {
     background-color: rgb(89, 52, 27);
@@ -15,3 +16,16 @@ body {
 table {
     background-color: #999999;
 }
+
+#harom {
+    text-align: left;
+}
+
+ #negy {
+
+     float: inline-end;
+ }
+
+ p {
+     width: 1000px;
+ }
