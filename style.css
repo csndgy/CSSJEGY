@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    width: 50%;
     
  }
 #cim {
@@ -10,13 +11,11 @@ body {
 }
 
 #masikcim {
- background-color: #999999;
+ 
  text-align: center;
  height: 80px;
 }
-table {
-    background-color: #999999;
-}
+
 
 #harom {
     text-align: left;
@@ -39,4 +38,8 @@ table {
  #kozepre {
      text-align: center;
      width: 1000px;
+ }
+
+ .hatter {
+     background-color: #999999;
  }
